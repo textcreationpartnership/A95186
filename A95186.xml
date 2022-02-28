@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>August 3: A true relation of such passages and proceedings of the army of Dublin, in the Kingdome of Ireland as hath happened from the seventh of July to this present. Shewing how unprovided the rebels are of powder, and if now there be not a speedy supply of men and moneys, to destroy these rebels, how the Protestants are like to suffer through the kingdome this winter, by reason of supplies of armes as are providing and expected from Rome and Spaine. Published to prevent false and erronious copies, which too often are set forth with mighty disadvantage to the truth itself.</title>
+            <title>True relation of such passages and proceedings of the army of Dublin, in the Kingdome of Ireland as hath happened from the seventh of July to this present.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95186</idno>
+            <idno type="STC">Wing T2921</idno>
+            <idno type="STC">Thomason E108_46</idno>
+            <idno type="STC">ESTC R10595</idno>
+            <idno type="EEBO-CITATION">99858865</idno>
+            <idno type="PROQUEST">99858865</idno>
+            <idno type="VID">110924</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95186)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110924)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E108[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>August 3: A true relation of such passages and proceedings of the army of Dublin, in the Kingdome of Ireland as hath happened from the seventh of July to this present. Shewing how unprovided the rebels are of powder, and if now there be not a speedy supply of men and moneys, to destroy these rebels, how the Protestants are like to suffer through the kingdome this winter, by reason of supplies of armes as are providing and expected from Rome and Spaine. Published to prevent false and erronious copies, which too often are set forth with mighty disadvantage to the truth itself.</title>
+                  <title>True relation of such passages and proceedings of the army of Dublin, in the Kingdome of Ireland as hath happened from the seventh of July to this present.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Bladen, and are to be sold by T. Paybody, in Queens-head Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "3 August".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110924:1"/>
+            <pb facs="tcp:110924:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION Of ſuch Paſſages and Proceedings of the Army of <hi>Dublin,</hi> in the Kingdome of <hi>IRELAND</hi> as hath happened from the ſeventh of <hi>July</hi> to this preſent.</p>
+            <p>SHEWING How unprovided the Rebels are of Powder, and if now there be not a ſpee<g ref="char:EOLhyphen"/>dy ſupply of Men and Moneys, to de<g ref="char:EOLhyphen"/>ſtroy theſe Rebels, how the Proteſtants are like to ſuffer through the Kingdome this Winter, by reaſon of Sup<g ref="char:EOLhyphen"/>plies of Armes as a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e providing and expected from <hi>ROME</hi> and <hi>SPAINE.</hi>
+            </p>
+            <p>
+               <add>3 Auguſt</add>
+            </p>
+            <p>Publiſhed to prevent falſe and erronious Copies, which too often are ſet forth with mighty diſadvantage to the Truth it ſelf.</p>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>William Bladen,</hi> and are to be ſold by <hi>T. Paybody,</hi> in <hi>Queens-head Alley,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110924:2"/>
+            <pb n="1" facs="tcp:110924:2"/>
+            <head>A TRUE RELATION OF SUCH PASSAGES And Proceedings of the Army of DUBLIN, in the Kingdome of <hi>Ireland,</hi> as have happened ſince the 7<hi rend="sup">th</hi>. of <hi>July,</hi> to this preſent.</head>
+            <opener>
+               <dateline>DUBLIN, <date>
+                     <hi>July</hi> 7<hi rend="sup">th</hi>. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His day ſome of our Armie marched from <hi>Dublin</hi> with two field peeces, weſt-ward; The Lord of Hoſts de<g ref="char:EOLhyphen"/>fend them, under the command of Colonell <hi>Gibſon.</hi>
+            </p>
+            <p>
+               <hi>July</hi> 8. This day others marched towards the County of <hi>Wicklow</hi> under the command of Col. <hi>Crafford,</hi> with two battering pieces, and two field pieces towards a Caſtle of one <hi>Talbots,</hi> neer to <hi>Poreſcourt;</hi> where the Rebels had ſet at defiance Col. <hi>Crafford</hi> a little before, he going now to try their va<g ref="char:EOLhyphen"/>lour, but before our peeces came neer to the Caſtle
+<pb n="2" facs="tcp:110924:3"/>by three miles, theſe Rebels fled away, and left be<g ref="char:EOLhyphen"/>hind them ſome bedding and victuals to furniſh our men for their Garriſon in that Caſtle; but Colonell <hi>Crafford</hi> with two field pieces marched after them, the two battering pieces returned back to <hi>Dublin</hi> the ſame night.</p>
+            <p>This day was printed here three letters ſent from <hi>Rome</hi> to the Lord <hi>Macquire,</hi> and Sir <hi>Philem O Neale,</hi> and other Rebels to encourage them in their Rebelli<g ref="char:EOLhyphen"/>ous taking of Armes againſt the King of <hi>England,</hi> and to ſettle the Crowne on the Houſe of the <hi>O Neales</hi> with earneſt admonition for peace amongſt them<g ref="char:EOLhyphen"/>ſelves, promiſing aide from the Pope, and from <hi>Spaine.</hi>
+            </p>
+            <p>
+               <hi>July</hi> the 13<hi rend="sup">th</hi>. This day Colonell <hi>Crafford</hi> ſent to have his Commiſſion enlarged for a longer time, for his better ſervice, having driven the Rebels out of <hi>Wicklow</hi> Towne and ſent alſo for victuals and ſome peeces of battery which are ſent in by Sea, but the Rebels run away from him and will not ſtay to try their manhood, and the juſtneſſe of their cauſe.</p>
+            <p>
+               <hi>July the</hi> 14<hi rend="sup">th</hi>. This day Colonell <hi>Gibſon</hi> with his Armie returned to <hi>Dublin,</hi> who marched within ten miles of <hi>Kilkenie,</hi> where in all his march no one Re<g ref="char:EOLhyphen"/>bell would ſtand to our men, nor all their great bo<g ref="char:EOLhyphen"/>dies would once dare to oppoſe us; but in Caſtles the Rebels ſet our men at defiance, with all the ſpite and wicked language that could be uttered, which for want of battering peeces we were not able to tame, onely a Caſtle called <hi>Baltingglaſe,</hi> when our men came neer it, abound<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce of Rebels being there, the
+<pb n="3" facs="tcp:110924:3"/>Caſtle ſtands in a bottome, a River on the one ſide, which our men to paſſe over, cloſe under the Caſtle, on the other ſide of the Caſtle hie ragged mountains and a wood, from whence the Rebels ſtocked in multitudes to the Caſtle, making ſhew to defend it, at which our worthy Colonell and coura<g ref="char:EOLhyphen"/>gious Souldiers were not daunted, becauſe the Caſtle was of no great ſtrength, drawing with great ſhew our field peeces as though they had been battering pieces; the Rebels it ſeemeth were much daunted, for thoſe Rebels on the mountaine diſcharged one mus<g ref="char:EOLhyphen"/>ket, and one in the Caſtle ſeconded him, and all, both in the Caſtle, Town, mountains and woods betooke them to their heels and ranne all away, ſo that our men took the Caſtle and Towne, and ſet them all on fire, that there is no more lodging for them; In all this march, our men have done as much ſervice as could by any Armie be done, by firing of all the Townes that had no Caſtles for their defence, and killing what they found out of Caſtles, which were many ſcattering Rogues, but for want of battering peeces many Caſtles of great importance to our great an<g ref="char:EOLhyphen"/>noyance are full of Rebels, we being not able to help it for want of great peeces, which the Rebels know too well by the many ſpies they have dayly amongſt us, ſo that nothing can be concluded either at Coun<g ref="char:EOLhyphen"/>ſell table, or Counſell of warre, but it is preſently carried to the Rebels which we dayly find by wofull experience, but had we money, munition, and men we never had better incouragement, for it is credibly reported the Rebels want powder in theſe parts,
+<pb n="4" facs="tcp:110924:4"/>which if our ſhipping guard the Sea, that none come to them, we hope in Gods mercy they will not be a<g ref="char:EOLhyphen"/>ble to ſtand againſt us; but we heare out of <hi>France</hi> great ſtore is comming to them, which we truſt in God by the care and vigilance of our ſhipping, will be prevented for comming into their hands, otherwiſe it will be a long and miſerable warre, and a great ha<g ref="char:EOLhyphen"/>zard of the loſſe of this Kingdome, and the ruine of all Proteſtants and of our profeſſion.</p>
+            <p>
+               <hi>July</hi> the 19. This day Colonell <hi>Crafford</hi> retur<g ref="char:EOLhyphen"/>ned from the County of <hi>Wicklow</hi> to his garriſon at <hi>Bullock,</hi> wherein he hath done good ſervice by bur<g ref="char:EOLhyphen"/>ning of above two hundred Townes wherein the Re<g ref="char:EOLhyphen"/>bels did harbour themſelves, and taking cattle and ſheep from them, but the Rebels never ſtood to fight, although they ſhewed themſelves in great multitudes but as our Armie came neer them, they run all away, our men beat them out of the woods, bogges, and mountains, whereſoever our men came, and yet theſe wicked Traytors upon all advantages, if they meet with a few of our men, and they many, would ſet up<g ref="char:EOLhyphen"/>on them, by which we have loſt three men, and in one night as our Troop horſes were feeding, ſtole ma<g ref="char:EOLhyphen"/>ny of them away, which loſſe is not ſmall, but we hear their reſolutions in not to fight in any battle, nor to ſtand to our men till winter, and then they purpoſe to plague us ſo that unleſſe we have men and money whereby we may be able to get their corn and cattle from them, and ſo to ſtarve them, little good will be done in this poor Kingdome, but they will put us to miſery and great hazard to keep what we have, they
+<pb n="5" facs="tcp:110924:4"/>ſtill ſteale our Cattle from us, within the liberties of our Citie by night round about us, The Lord in mer<g ref="char:EOLhyphen"/>cy put in the hearts of all that have authority to pre<g ref="char:EOLhyphen"/>vent theſe miſeries poor <hi>Ireland</hi> is in.</p>
+            <p>I have written formerly, how they brag and boaſt themſelves of his Majeſties of favour.</p>
+            <p>Two of our Citie were tried at our Seſſions for cur<g ref="char:EOLhyphen"/>ſing the Parliament of <hi>England,</hi> and our Armies, cal<g ref="char:EOLhyphen"/>ling us all Rebels, and wiſhing the Divel confound us all; and they hoped in a ſhort time that a Prote<g ref="char:EOLhyphen"/>ſtant ſhould not dare to ſpeak a word againſt a Papiſt, but that we ſhortly ſhould be all cut off; all which words are clearly proved, <hi>July</hi> 20.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
